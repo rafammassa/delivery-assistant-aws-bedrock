@@ -69,9 +69,9 @@ Resultado Final
 ```json
 {
   "prompts": [
-    "Name a random city.",
-    "Write two to three sentences describing the city.",
-    "Write three to four sentences describing the same city."
+    "Estou programando um jantar romântico. Nesse jantar, irei pedir um macarrão. Me dê uma lista de três itens que combinam em uma experiência gastronômica.",
+    "Liste duas bebidas que acompanham um jantar romântico.",
+    "Liste um lugar perfeito para jantar romântico em Paris."
   ]
 }
 ```
